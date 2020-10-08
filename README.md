@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+[![Ennio's Github Stats](https://github-readme-stats.vercel.app/api?username=ennioVisco&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ennio's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ennioVisco&hide=Game%20Maker%20Language,Lex,Yacc&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **ennioVisco/ennioVisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
