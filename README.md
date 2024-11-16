@@ -12,7 +12,7 @@
 -->
 &nbsp; &nbsp;
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ennioVisco&hide=Game%20Maker%20Language,Lex,Yacc,Jupyter%20Notebook&langs_count=8&layout=compact&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ennioVisco&hide=Game%20Maker%20Language,Lex,Yacc,Jupyter%20Notebook,Shell,C&langs_count=8&layout=compact&theme=transparent" />
 </a>
 
 <!--
